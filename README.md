@@ -1,2 +1,2 @@
 # ScanFeeDep
-Scan Fee is a online printing service
+Scan Fee is an online printing service
