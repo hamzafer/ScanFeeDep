@@ -2,7 +2,13 @@
 /node_modules
 
 # production
-/build
+/dist
+
+# testing
+/test-results
+/playwright-report
+/blob-report
+/.playwright-mcp
 
 # misc
 .DS_Store
